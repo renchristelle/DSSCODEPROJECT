@@ -1,7 +1,15 @@
 {
-  "gitReferences": {},
+  "gitReferences": {
+    "exampleLib": {
+      "remote": "git@github.com:renchristelle/DSSCODEPROJECT.git",
+      "checkout": "refs/heads/main",
+      "remotePath": "lib/exampleLib",
+      "isDirty": false
+    }
+  },
   "pythonPath": [
-    "python"
+    "python",
+    "exampleLib"
   ],
   "rsrcPath": [
     "R"
