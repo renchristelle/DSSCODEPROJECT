@@ -1,19 +1,7 @@
 {
-  "gitReferences": {
-    "test": {
-      "remote": "git@github.com:renchristelle/DSSCODEPROJECT.git",
-      "checkout": "refs/heads/main",
-      "remotePath": "lib/",
-      "lastHash": "bd895332ca3a17854034bcc93609ec045619a9cb",
-      "conflictingFiles": [],
-      "resolvedFiles": [],
-      "faultyHash": "",
-      "isDirty": false
-    }
-  },
+  "gitReferences": {},
   "pythonPath": [
-    "python",
-    "test"
+    "python"
   ],
   "rsrcPath": [
     "R"
