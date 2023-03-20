@@ -4,11 +4,11 @@
       "remote": "git@github.com:renchristelle/DSSCODEPROJECT.git",
       "checkout": "refs/heads/main",
       "remotePath": "lib/exampleLib",
-      "lastHash": "d81120a28f55d5cbb8d9b635f71c246b3cb0e0d5",
+      "lastHash": "644e00ba5b115736b3e8f732afcfcbc33c42bc1c",
       "conflictingFiles": [],
       "resolvedFiles": [],
       "faultyHash": "",
-      "isDirty": true
+      "isDirty": false
     }
   },
   "pythonPath": [
